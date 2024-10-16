@@ -1,2 +1,3 @@
-const Name = (Name "Subhajit");
-console.log (Name);
+var n = 5;
+console.log(n);
+
